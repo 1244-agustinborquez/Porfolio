@@ -1,9 +1,9 @@
-import React from 'react'
-
+import React from 'react';
+import './About.css'
 function About() {
     return (
         <div className='about'>
-            <h1>Soy el about</h1>
+            <h1>About</h1>
         </div>
     )
 }
