@@ -6,8 +6,8 @@ function Home() {
         <div className='home'>
             <div className='main-home'>
             <div className='content-home'>
-                <h2 className='text-home'>Mi Nombres es Guillermo Agustín</h2>
-                <h3 className='text-home'> Soy Full Stack Developer 🚀
+                <h2 className='text-home'>Hola!👋 Mi Nombres es Guillermo</h2>
+                <h3 className='text-home'> Y Soy Full Stack Developer 🚀
                 {/* <Typical
                     loop={Infinity}
                     wrapper='b'
