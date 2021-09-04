@@ -17,7 +17,7 @@ export const SidebarData = [
         cName: 'nav-text'
     },
     {
-        title: 'Education',
+        title: 'My Resume',
         path: '/education',
         icon: <FaIcons.FaRegEdit/>,
         cName: 'nav-text'

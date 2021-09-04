@@ -15,23 +15,23 @@ function Resume() {
         <Title title={"Resume"} span={"resume"} />
         <InnerLayout>
           <div className="small-title">
-            <SmallTitle icon={briefcase} title={"My Awesome Story"} />
+            <SmallTitle icon={briefcase} title={"Work Experience"} />
           </div>
           <div className="resume-content">
             <ResumeItem
-              year={"May 2021 - Present"}
-              title={"Tutor of Back-End"}
+              year={"Ago 2021 - Actualidad"}
+              title={"Tutor del Curso de  Back-End"}
               subTitle={"CoderHouse"}
               text={
-                "Responsible of support teacher within class. Answer questions of students via Slack. In charge of review code challenges of students and grade them. Lead students during their learning process along the course. "
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci. "
               }
             />
             <ResumeItem
-              year={"March 2020  -  November 2020"}
-              title={"Web Developer"}
-              subTitle={"Freelance"}
+              year={"jun 2021  -  Actualidad"}
+              title={"Asistente de enseñanza Full-Stack"}
+              subTitle={"Bootcampt Soy Henry"}
               text={
-                "I implemented websites and landing pages for new clients. I built websites with responsive design. Key Achievements: I implemented new responsive, mobile-first approach which increased mobile traffic by 20% "
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci. "
               }
             />
           </div>
@@ -40,25 +40,25 @@ function Resume() {
           </div>
           <div className="resume-content ">
             <ResumeItem
-              year={"May 2021 - August 2021"}
-              title={"Front-End Engineer"}
-              subTitle={"Codecademy"}
+              year={"Jun 2021 - Actualidad"}
+              title={"Full-Stack Developer"}
+              subTitle={"Bootcampt Soy Henry"}
               // text={
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }
             />
             <ResumeItem
-              year={"Dec 2020 - March 2021"}
-              title={"Front-End Development"}
-              subTitle={"PLATZI"}
+              year={"Abr 2020 - Actualidad"}
+              title={"Tecnicatura en Programación"}
+              subTitle={"UTN frt"}
               // text={
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }
             />
             <ResumeItem
               year={"April 2021"}
-              title={"Web Responsive Design (Certificate)"}
-              subTitle={"freeCodeCamp"}
+              title={"Lorem ipsum dolor ipsum dolor"}
+              subTitle={"fLorem ipsum"}
               // text={
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }
