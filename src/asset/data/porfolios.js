@@ -1,6 +1,10 @@
 import img1 from '../images/img1.jpg';
 import img2 from '../images/img2.jpg';
 
+import JS1 from '../images/JS1.png';
+import JS2 from '../images/js2.png';
+import React1 from '../images/React1.png';
+import React2 from '../images/React2.png';
 
 const portfolios = [
     {
@@ -24,19 +28,19 @@ const portfolios = [
     {
       id: 3,
       category: "JavaScript",
-      image: img1,
+      image: JS1,
       link1: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
-      link2: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
-      title: "Drum Kit",
+      link2: "https://calculadoraaa.netlify.app",
+      title: " Calculadora",
       text: "realizada Con JavaScript",
     },
     {
       id: 4,
       category: "JavaScript",
-      image: img2,
+      image: JS2,
       link1: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
-      link2: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
-      title: "Calculadora",
+      link2: "https://drukit.netlify.app",
+      title: "Drum Kit",
       text: "realizada con  JavaScript",
     },
     {
@@ -51,18 +55,18 @@ const portfolios = [
     {
       id: 6,
       category: "ReactJS",
-      image: img2,
+      image: React1,
       link1: "https://github.com/1244-agustinborquez/Cryptocurrency",
-      link2: "https://github.com/1244-agustinborquez/Cryptocurrency",
+      link2: "https://currencycrypto.netlify.app/",
       title: "Cryptocurrency APP",
       text: "Realizada con  ReactJS y la Cryptocurrency Api",
     },
     {
       id: 7,
       category: "ReactJS",
-      image: img1,
+      image: React2,
       link1: "https://github.com/1244-agustinborquez/PrimerProyerctoReact",
-      link2: "https://github.com/1244-agustinborquez/PrimerProyerctoReact",
+      link2: "https://apppixabay.netlify.app/",
       title: "Pixa Bay APP",
       text: "Realizado con ReactJS ",
     },
