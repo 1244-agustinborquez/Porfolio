@@ -1,10 +1,13 @@
 import React from 'react'
-
+import Skills from "../../components/skills/Skills";
+import { MainLayout } from "../../Styles/Layout";
+import Resume from "../../components/resume/Resume";
 function Education() {
     return (
-        <div className='education'>
-            <h1>Soy el education</h1>
-        </div>
+        <MainLayout>
+        <Skills />
+        <Resume />
+       </MainLayout>
     )
 }
 
