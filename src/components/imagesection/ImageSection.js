@@ -30,8 +30,9 @@ function ImageSection() {
         Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in 
         their exact original form,
         </p>
-
+        <a href="https://drive.google.com/file/d/1T6M0jKy83mg4uGEl9pvsbwLLp3rWXZxM/view" target="_blank">
         <PrimaryButton title={"Download Cv"} />
+        </a>
       </div>
     </ImageSectionStyled>
     )

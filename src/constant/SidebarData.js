@@ -11,7 +11,7 @@ export const SidebarData = [
         cName: 'nav-text'
     },
     {
-        title: 'About',
+        title: 'About Me',
         path: '/about',
         icon: <AiIcons.AiOutlineSmile/>,
         cName: 'nav-text'
@@ -26,6 +26,12 @@ export const SidebarData = [
         title: 'Projects',
         path: '/work',
         icon: <FaIcons.FaRegFolder/>,
+        cName: 'nav-text'
+    },
+    {
+        title: 'Contact Me',
+        path: '/Contact',
+        icon: <AiIcons.AiOutlineContacts/>,
         cName: 'nav-text'
     },
 ]

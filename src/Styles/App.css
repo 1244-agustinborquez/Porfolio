@@ -10,6 +10,18 @@ body{
   /* overflow: hidden; */
   background-color: #272727;
 }
+body::-webkit-scrollbar{
+  width: 9px;
+  background-color: #383838;
+}
+body::-webkit-scrollbar-thumb{
+  border-radius: 10px;
+  background-color: #29F3C3;
+}
+body::-webkit-scrollbar-track{
+  border-radius: 10px;
+  background-color: #383838;
+}
 @media (max-width: 600px) {
   h2{
     font-size: 15px;
