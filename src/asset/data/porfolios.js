@@ -1,16 +1,17 @@
-import img1 from '../images/img1.jpg';
-import img2 from '../images/img2.jpg';
-
+import appBarberia from '../images/appBarberia.png';
+import festivalMusical from '../images/festivalMusical.png'
 import JS1 from '../images/JS1.png';
 import JS2 from '../images/js2.png';
+import porfolio from '../images/porfolio.png'
 import React1 from '../images/React1.png';
 import React2 from '../images/React2.png';
+import countriesApp from '../images/countriesApp.png';
 
 const portfolios = [
     {
       id: 1,
       category: "SASS",
-      image: img1,
+      image: appBarberia,
       link1: "https://github.com/1244-agustinborquez/BarbershopApp",
       link2: "https://github.com/1244-agustinborquez/BarbershopApp",
       title: "BarbershopApp",
@@ -19,7 +20,7 @@ const portfolios = [
     {
       id: 2,
       category: "SASS",
-      image: img2,
+      image: festivalMusical,
       link1: "https://github.com/1244-agustinborquez/FestivalMusical",
       link2: "https://github.com/1244-agustinborquez/FestivalMusical",
       title: "Festival Musical",
@@ -46,7 +47,7 @@ const portfolios = [
     {
       id: 5,
       category: "ReactJS",
-      image: img1,
+      image: porfolio,
       link1: "https://github.com/1244-agustinborquez/Porfolio",
       link2: "https://github.com/1244-agustinborquez/Porfolio",
       title: "Porfolio",
@@ -73,7 +74,7 @@ const portfolios = [
     {
       id: 8,
       category: "NodeJS",
-      image: img2,
+      image: countriesApp,
       link1: "https://github.com/1244-agustinborquez/CountriesApp",
       link2: "https://github.com/1244-agustinborquez/CountriesApp",
       title: "Countries APP",

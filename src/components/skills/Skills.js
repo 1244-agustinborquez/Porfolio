@@ -58,12 +58,6 @@ function Skills() {
               data-bs-slide-to="2"
               aria-label="Slide 3"
             ></button>
-            <button
-              type="button"
-              data-bs-target="#carouselExampleIndicators"
-              data-bs-slide-to="3"
-              aria-label="Slide 4"
-            ></button>
           </div>
           <div class="carousel-inner ">
             <div class="carousel-item active " data-bs-interval="3000">
@@ -91,10 +85,11 @@ function Skills() {
                 <div className="col-md-4">
                   <div className="single-box">
                     <div className="img-area">
-                      <div className="box-icon">
+                      <div className="box-icone">
                         <BsFillBootstrapFill className="icon" color="#6B338C" />
+                        <SiSass className="icon" color="#FE62EA" />
                       </div>
-                      <h3>Bootstrap</h3>
+                      <h3>Bootstrap - Sass</h3>
                     </div>
                   </div>
                 </div>
@@ -102,17 +97,7 @@ function Skills() {
             </div>
             <div class="carousel-item" data-bs-interval="3000">
               <div className="row">
-                <div className="col-md-4">
-                  <div className="single-box">
-                    <div className="img-area">
-                      <div className="box-icon">
-                        <SiSass className="icon" color="#FE62EA" />
-                      </div>
-                      <h3>Sass</h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4">
+              <div className="col-md-4">
                   <div className="single-box">
                     <div className="img-area">
                       <div className="box-icon">
@@ -125,10 +110,22 @@ function Skills() {
                 <div className="col-md-4">
                   <div className="single-box">
                     <div className="img-area">
-                      <div className="box-icon">
+                      <div className="box-icone">
                         <FaIcons.FaReact className="icon" color="#5A87BC" />
+                        <SiRedux className="icon" color="#320022" />
                       </div>
-                      <h3>Rract.JS</h3>
+                      <h3>Rract.JS - Redux</h3>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="single-box">
+                    <div className="img-area">
+                      <div className="box-icone">
+                        <FaIcons.FaNodeJs className="icon" color="#0D5141" />
+                        <FaIcons.FaNodeJs className="icon" color="#72AB89" />
+                      </div>
+                      <h3>Node.Js - Express</h3>
                     </div>
                   </div>
                 </div>
@@ -136,40 +133,7 @@ function Skills() {
             </div>
             <div class="carousel-item" data-bs-interval="3000">
               <div className="row">
-                <div className="col-md-4">
-                  <div className="single-box">
-                    <div className="img-area">
-                      <div className="box-icon">
-                        <SiRedux className="icon" color="#320022" />
-                      </div>
-                      <h3>Redux</h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="single-box">
-                    <div className="img-area">
-                      <div className="box-icon">
-                        <FaIcons.FaNodeJs className="icon" color="#0D5141" />
-                      </div>
-                      <h3>Node.Js</h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="single-box">
-                    <div className="img-area">
-                      <div className="box-icon">
-                        <FaIcons.FaNodeJs className="icon" color="#72AB89" />
-                      </div>
-                      <h3>Express</h3>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div className="row">
-                  <div className="col-md-4">
+              <div className="col-md-4">
                     <div className="single-box">
                       <div className="img-area">
                         <div className="box-icon">
@@ -178,8 +142,8 @@ function Skills() {
                         <h3>PostgreSQL</h3>
                       </div>
                     </div>
-                  </div>
-                  <div className="col-md-4">
+                </div>
+                <div className="col-md-4">
                     <div className="single-box">
                       <div className="img-area">
                         <div className="box-icon">
@@ -188,8 +152,8 @@ function Skills() {
                         <h3>MongoDB</h3>
                       </div>
                     </div>
-                  </div>
-                  <div className="col-md-4">
+                </div>
+                <div className="col-md-4">
                     <div className="single-box">
                       <div className="img-area">
                         <div className="box-icon">
@@ -198,7 +162,6 @@ function Skills() {
                         <h3>Git</h3>
                       </div>
                     </div>
-                  </div>
                 </div>
               </div>
             </div>

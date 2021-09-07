@@ -25,7 +25,11 @@ const SkillsStyled = styled.section`
   .icon{
     font-size: 150px;
   }
-
+  .box-icone{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
 `;
 
 
