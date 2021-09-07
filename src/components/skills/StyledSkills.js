@@ -1,13 +1,32 @@
 import styled from "styled-components";
 const SkillsStyled = styled.section`
-  .skills {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-row-gap: 2rem;
-    grid-column-gap: 3rem;
-    @media screen and (max-width: 700px) {
-      grid-template-columns: repeat(1, 1fr);
+  .wid {
+    width: 60%;
+    @media screen and (max-width: 850px) {
+      width: 75%;
     }
   }
+  .img-area h3 {
+    color: #29F3C3;
+    text-align: center;
+  }
+  .carousel-indicators{
+    left: 0;
+    top: auto;
+    bottom: -70px;
+  }
+  .carousel-indicators button{
+    background-color: #29F3C3;
+  }
+  .box-icon {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .icon{
+    font-size: 150px;
+  }
+
 `;
+
+
 export default SkillsStyled
