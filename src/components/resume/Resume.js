@@ -18,6 +18,14 @@ function Resume() {
             <SmallTitle icon={briefcase} title={"Work Experience"} />
           </div>
           <div className="resume-content">
+          <ResumeItem
+              year={"Sep 2021 - Actualidad"}
+              title={"Proyecto App de Servicios"}
+              subTitle={"Freelance"}
+              text={
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci. "
+              }
+            />
             <ResumeItem
               year={"Ago 2021 - Actualidad"}
               title={"Tutor del Curso de  Back-End"}
@@ -55,14 +63,14 @@ function Resume() {
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }
             />
-            <ResumeItem
+            {/* <ResumeItem
               year={"April 2021"}
               title={"Lorem ipsum dolor ipsum dolor"}
               subTitle={"fLorem ipsum"}
               // text={
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }
-            />
+            /> */}
           </div>
         </InnerLayout>
       </ResumeStyled>

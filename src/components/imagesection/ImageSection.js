@@ -12,7 +12,7 @@ function ImageSection() {
       <div className="right-content">
         <div className="sub-title">
           <h4>
-            Hi! My name is <span>Guillermo Agusín Borquez</span>
+            Hola! me llamo  Guillermo Agusín Borquez
           </h4>
         </div>
         <p className="paragraph">
