@@ -9,7 +9,7 @@ import countriesApp from '../images/countriesApp.png';
 
 const portfolios = [
     {
-      id: 1,
+      id: 8,
       category: "SASS",
       image: appBarberia,
       link1: "https://github.com/1244-agustinborquez/BarbershopApp",
@@ -18,7 +18,7 @@ const portfolios = [
       text: "HTML5, JavaScript y SASS.",
     },
     {
-      id: 2,
+      id: 7,
       category: "SASS",
       image: festivalMusical,
       link1: "https://github.com/1244-agustinborquez/FestivalMusical",
@@ -27,7 +27,7 @@ const portfolios = [
       text: "HTML5, JavaScript y SASS.",
     },
     {
-      id: 3,
+      id: 6,
       category: "JavaScript",
       image: JS1,
       link1: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
@@ -36,7 +36,7 @@ const portfolios = [
       text: "realizada Con JavaScript",
     },
     {
-      id: 4,
+      id: 5,
       category: "JavaScript",
       image: JS2,
       link1: "https://github.com/1244-agustinborquez/CalculadoraCon-Js",
@@ -45,7 +45,7 @@ const portfolios = [
       text: "realizada con  JavaScript",
     },
     {
-      id: 5,
+      id: 4,
       category: "ReactJS",
       image: porfolio,
       link1: "https://github.com/1244-agustinborquez/Porfolio",
@@ -54,7 +54,7 @@ const portfolios = [
       text: "Realizado ReactJS",
     },
     {
-      id: 6,
+      id: 3,
       category: "ReactJS",
       image: React1,
       link1: "https://github.com/1244-agustinborquez/Cryptocurrency",
@@ -63,7 +63,7 @@ const portfolios = [
       text: "Realizada con  ReactJS y la Cryptocurrency Api",
     },
     {
-      id: 7,
+      id: 2,
       category: "ReactJS",
       image: React2,
       link1: "https://github.com/1244-agustinborquez/PrimerProyerctoReact",
@@ -72,7 +72,7 @@ const portfolios = [
       text: "Realizado con ReactJS ",
     },
     {
-      id: 8,
+      id: 1,
       category: "NodeJS",
       image: countriesApp,
       link1: "https://github.com/1244-agustinborquez/CountriesApp",
