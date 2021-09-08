@@ -24,11 +24,10 @@ function Home() {
                 /> */}
           </h3>
           <p>
-            The standard chunk of Lorem Ipsum used since the 1500s is reproduced
-            below for those interested. Sections 1.10.32 and 1.10.33 from "de
-            Finibus Bonorum et Malorum" by Cicero are also reproduced in their
-            exact original form, accompanied by English versions from the 1914
-            translation by H. Rackham.
+            Este es mi Porfolio Web una manera mas sencilla e interactiva de poder ver mi experiencia, formacion y trabajos 
+            a partir de este momento sientete libre de recorrer el porfolio como mas prefieras no hay un orden en especifico 😁
+            puedes ir directo a mi trabajo 😎 y despues a mis redes de contactos, o si deseas conocer mas de mi puedes ir a about 🧐 
+            Y no te olvides de la seccion "My Resume" donde encontras las tecnologias que domino y mi expreiencia laboral y academica.
           </p>
         </div>
         <div className="image-home">

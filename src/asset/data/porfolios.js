@@ -40,7 +40,7 @@ const portfolios = [
     category: "ReactJS",
     image: porfolio,
     link1: "https://github.com/1244-agustinborquez/Porfolio",
-    link2: "https://github.com/1244-agustinborquez/Porfolio",
+    link2: "https://guillermoagustin.vercel.app/",
     title: "Porfolio",
     text: "Realizado ReactJS",
   },
