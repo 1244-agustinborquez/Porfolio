@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
-import Typical from "react-typical";
-import Particle from "../../components/particles/Particle";
+// import Typical from "react-typical";
+// import Particle from "../../components/particles/Particle";
 function Home() {
   return (
     <div className="home">
@@ -32,7 +32,7 @@ function Home() {
         </div>
         <div className="image-home">
           <img
-            src="/ImgHeader.jpg"
+            src="/fotoperfil2.jpg"
             alt="Image No Found"
             width="100%"
             height="100%"

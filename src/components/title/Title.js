@@ -5,7 +5,7 @@ function Title({title, span}) {
         <TitleStyled>
         <h2>
             {title}
-            <span> {span} </span>
+            {/* <span> {span} </span> */}
         </h2>
         </TitleStyled>
     );

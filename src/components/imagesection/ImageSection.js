@@ -1,6 +1,6 @@
 import React from "react";
 import ImageSectionStyled from "./StyledImgSection";
-import resume from '../../asset/images/ImgHeader.jpg';
+import resume from '../../asset/images/fotoperfil1.jpg';
 import PrimaryButton from '../primaryButtom/PrimaryButtom';
 
 function ImageSection() {

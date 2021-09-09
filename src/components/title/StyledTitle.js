@@ -2,12 +2,13 @@ import styled from "styled-components";
 const TitleStyled = styled.div`
   position: relative;
   h2 {
-    color: #fff;
+    color: #f7f7f7;
     font-size: 3.1rem;
     font-weight: 600;
     text-transform: uppercase;
     position: relative;
     padding-bottom: 0.7rem;
+    text-shadow: 5px 5px 2px #555555;
     @media screen and (max-width: 496px) {
       font-size: 2.8rem;
     }
@@ -34,7 +35,7 @@ const TitleStyled = styled.div`
       border-radius: 15px;
       left: 0;
     } */
-    span {
+    /* span {
       font-weight: 900;
       color: rgba(0, 0, 0, 0.44);
       font-size: 5rem;
@@ -42,6 +43,7 @@ const TitleStyled = styled.div`
       left: 0;
       top: 30%;
       z-index: -1;
+      
       @media screen and (max-width: 620px) {
         font-size: 4rem;
       }
@@ -51,7 +53,7 @@ const TitleStyled = styled.div`
       @media screen and (max-width: 370px) {
         font-size: 2rem;
       }
-    }
+    } */
   }
 `;
 
