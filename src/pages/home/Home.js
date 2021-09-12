@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+// import PrimaryButtom from "../../components/primaryButtom/PrimaryButtom";
 // import Typical from "react-typical";
 // import Particle from "../../components/particles/Particle";
 function Home() {
@@ -24,10 +25,14 @@ function Home() {
                 /> */}
           </h3>
           <p>
-              Éste es mi portfolio web, una manera más sencilla e interactiva para que veas mi experiencia , formación y trabajos a partir de éste momento, Siéntete libre de recorrer mi portfolio  como más prefieras.
-              Puedes ir directo a mis Proyectos y despues pasar por mis redes de contactos 😎 o si deseas conocer más de mí puedes ir a la casilla de menú en about me 🧐 .
-              No te olvides de la sección "my resume" 😁 el cuál encontrarás las tecnologías que domino , las experiencias laborales y académica.
+          Este es mi portfolio web, una manera más sencilla e interactiva para que veas mi experiencia , formación y trabajos. A partir de este momento, puedes recorrer mi portfolio como más prefieras. Quizás te interese ir directo a Proyectos y despues pasar por mis redes de contactos o si deseas conocer más de mí diríjase a la casilla de menú en about me. No te olvides de la sección "my resume" en el cuál encontrarás las tecnologías que domino, las experiencias laborales y académica.
           </p>
+          {/* <a href="https://drive.google.com/file/d/1T6M0jKy83mg4uGEl9pvsbwLLp3rWXZxM/view" target="_blank">
+        <PrimaryButtom title={"Download Cv"} />
+        </a>
+          <a href="https://drive.google.com/file/d/1T6M0jKy83mg4uGEl9pvsbwLLp3rWXZxM/view" target="_blank">
+        <PrimaryButtom title={"Download Cv"} />
+        </a> */}
         </div>
         <div className="image-home">
           <img

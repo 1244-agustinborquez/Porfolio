@@ -1,13 +1,14 @@
 import React from "react";
 import ImageSectionStyled from "./StyledImgSection";
-import resume from '../../asset/images/fotoperfil1.jpg';
+// import resume from '../../asset/images/fotoperfil1.jpg';
+// import resume from '/ImgHeader.jpg';
 import PrimaryButton from '../primaryButtom/PrimaryButtom';
 
 function ImageSection() {
     return (
 <ImageSectionStyled>
       <div className="left-content">
-        <img src={resume} alt="resume" />
+        <img src='/ImgHeader.jpg' alt="resume" />
       </div>
       <div className="right-content">
         <div className="sub-title">
