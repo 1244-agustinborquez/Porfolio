@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <div className="main-home">
         <div className="content-home">
-          <h2 className="text-home">Hola!👋 Mi Nombres es Guillermo</h2>
+          <h2 className="text-home">Hola!👋 Mi Nombre es Guillermo</h2>
           <h3 className="text-home">
             {" "}
             Y Soy Full Stack Developer 🚀
@@ -24,10 +24,9 @@ function Home() {
                 /> */}
           </h3>
           <p>
-            Este es mi Porfolio Web una manera mas sencilla e interactiva de poder ver mi experiencia, formacion y trabajos 
-            a partir de este momento sientete libre de recorrer el porfolio como mas prefieras no hay un orden en especifico 😁
-            puedes ir directo a mi trabajo 😎 y despues a mis redes de contactos, o si deseas conocer mas de mi puedes ir a about 🧐 
-            Y no te olvides de la seccion "My Resume" donde encontras las tecnologias que domino y mi expreiencia laboral y academica.
+              Éste es mi portfolio web, una manera más sencilla e interactiva para que veas mi experiencia , formación y trabajos a partir de éste momento, Siéntete libre de recorrer mi portfolio  como más prefieras.
+              Puedes ir directo a mis Proyectos y despues pasar por mis redes de contactos 😎 o si deseas conocer más de mí puedes ir a la casilla de menú en about me 🧐 .
+              No te olvides de la sección "my resume" 😁 el cuál encontrarás las tecnologías que domino , las experiencias laborales y académica.
           </p>
         </div>
         <div className="image-home">

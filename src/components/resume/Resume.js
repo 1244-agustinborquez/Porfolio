@@ -37,7 +37,7 @@ function Resume() {
             <ResumeItem
               year={"jun 2021  -  Actualidad"}
               title={"Asistente de enseñanza Full-Stack"}
-              subTitle={"Bootcampt Soy Henry"}
+              subTitle={"Bootcamp Soy Henry"}
               text={
                 "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, soluta ratione. Pariatur quas accusantium adipisci.accusantium adipisci. "
               }
@@ -50,7 +50,7 @@ function Resume() {
             <ResumeItem
               year={"Jun 2021 - Actualidad"}
               title={"Full-Stack Developer"}
-              subTitle={"Bootcampt Soy Henry"}
+              subTitle={"Bootcamp Soy Henry"}
               // text={
               //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem. "
               // }

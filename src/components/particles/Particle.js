@@ -9,7 +9,7 @@ function Particle() {
         params={{
           particles: {
             number: {
-              value: 109,
+              value: 110,
               density: {
                 enable: true,
                 value_area: 1200,
@@ -41,14 +41,14 @@ function Particle() {
             move: {
               enable: true,
               random: true,
-              speed: 0.6,
+              speed: 5,
               attract: {
                 rotateX: 600,
                 rotateY: 1200,
               },
             },
             size: {
-              value: 4,
+              value: 5,
               random: true,
               anim: {
                 speed: 40,

@@ -12,21 +12,23 @@ function ImageSection() {
       <div className="right-content">
         <div className="sub-title">
           <h4>
-            Hola! me llamo  Guillermo Agusín Borquez
+            Hola! Me llamo Agustín Borquez
           </h4>
         </div>
         <p className="paragraph">
         ¿Quien soy? 👀<br/>
-            tengo 21 Años soy Desarrollador Full Stack orientado al Back-End, Comence en este despues de dejar dos años de cursada de una carrera totalmente diferente, se podria decir que llegue por casualidad buscando una salida y me encontre con lo que de verdad me gusta y apaciona, estoy preparado y con muchas ganas de seguir en esto realizando proyectos y creciendo tanto personal como tecnicamente .
+          Tengo 21 años , soy Desarrollador Full Stack orientado al Back-End. 
+          Comencé en cursando la carrera en la Universidad Nacional Tecnológica en la Provincia de Tucumán.   
+          Por una parte llegué a ese mundo de la programación buscando una salida laboral importante y por otro lado luego con el paso del tiempo mientras estaba inmerso en ese mundo de la tecnología llegué a la conclusión que me apasiona del cuál estoy muy preparado y con muchas ganas de seguir mi camino con firmeza y dedicación realizando proyectos y crecer tanto a nivel personal como profesionalmente.
         </p>
         <p className="paragraph">
-        ¿Por qué yo ? 🤔 <br/>
-        todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás un desarrollador curioso con gran capacidad de resolución de problemas y sobre todo un desarrollador siempre dispuesto a enseñar y aprender de los demás.
+          ¿Por qué yo ? 🤔 <br/>
+          Todos los miembros de ésta comunidad tenemos excelentes habilidades técnicas, sin embargo, obtendrás un desarrollador curioso y con gran capacidad de resolución de problemas , trabajo en equipo , dispuesto a enseñar y por último aprender de los demás.
         </p>
         <p className="paragraph">
         Mi historial 😁<br/>
-          Mi experiencia Laboral, Realice proyectos de forma Freelance, en este momento me encuentro en una Aplicacion de Servicios, me encuentro trabajando con un equipo, bajo la modalidad Scrum, tambien comencé mi experiencia como Tutor del Curso de Back-End en Coderhouse.
-          Mi experiencia académica, desde el año 2020 que comencé con la tecnicatura en Programación en la UTNfrt, y ahora este año 2021 que comencé el Bootcampt Full Stack en Soy Henry donde me encuentro Actualmente y no tan solo pulí mis capacidades técnicas, si no también sociales como desarrollador.
+          Realicé proyectos de forma freelance.
+          Actualmente  me encuentro desarrollando una aplicación de servicios ,  también estoy trabajando con un equipo  bajo la modalidad scrum.   Por otro lado comencé mi experiencia como tutor del curso Back-End con una empresa Argentina llamado Coder House. Y por último pulí mis capacidades técnicas y sociales como desarrollador en el Bootcamp Full Stack en Soy  Henry
         </p>
         <a href="https://drive.google.com/file/d/1T6M0jKy83mg4uGEl9pvsbwLLp3rWXZxM/view" target="_blank">
         <PrimaryButton title={"Download Cv"} />
