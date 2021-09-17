@@ -114,7 +114,7 @@ function Skills() {
                         <FaIcons.FaReact className="icon" color="#5A87BC" />
                         <SiRedux className="icon" color="#320022" />
                       </div>
-                      <h3>Rract.JS - Redux</h3>
+                      <h3>React.JS - Redux</h3>
                     </div>
                   </div>
                 </div>
