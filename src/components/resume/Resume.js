@@ -19,7 +19,7 @@ function Resume() {
           </div>
           <div className="resume-content">
           <ResumeItem
-              year={"Agos/2021 - Sep/2021"}
+              year={"Agos 2021 - Sep 2021"}
               title={"Proyecto App de Servicios"}
               subTitle={"Freelance"}
               text={
@@ -48,7 +48,7 @@ function Resume() {
           </div>
           <div className="resume-content ">
             <ResumeItem
-              year={"Jun/2021 - sep/2021"}
+              year={"Jun 2021 - sep 2021"}
               title={"Full-Stack Developer"}
               subTitle={"Bootcamp Soy Henry"}
               // text={
