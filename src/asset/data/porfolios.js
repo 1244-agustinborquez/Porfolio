@@ -6,8 +6,18 @@ import porfolio from '../images/porfolio.png'
 import React1 from '../images/React1.png';
 import React2 from '../images/React2.png';
 import countriesApp from '../images/countriesApp.png';
+import reparapp from '../images/reparapp.png'
 
 const portfolios = [
+  {
+    id: 9,
+    category: "NodeJS",
+    image: reparapp,
+    link1: "https://github.com/1244-agustinborquez/reparApp",
+    link2: "https://reparapp.herokuapp.com/",
+    title: "Reparapp",
+    text: "Proyecto Colaborativo, una App De Servicios, realizada con Node.js,express,React.js,Redux entre otras Tec.",
+  },
   {
     id: 8,
     category: "NodeJS",
@@ -16,6 +26,15 @@ const portfolios = [
     link2: "https://github.com/1244-agustinborquez/CountriesApp",
     title: "Countries APP",
     text: "Realizada con React/Redux para el Front Y Node/Express para el BAck ",
+  },
+  {
+    id: 5,
+    category: "ReactJS",
+    image: porfolio,
+    link1: "https://github.com/1244-agustinborquez/Porfolio",
+    link2: "https://guillermoagustin.vercel.app/",
+    title: "Porfolio",
+    text: "Realizado ReactJS",
   },
   {
     id: 7,
@@ -34,15 +53,6 @@ const portfolios = [
     link2: "https://currencycrypto.netlify.app/",
     title: "Cryptocurrency APP",
     text: "Realizada con  ReactJS y la Cryptocurrency Api",
-  },
-  {
-    id: 5,
-    category: "ReactJS",
-    image: porfolio,
-    link1: "https://github.com/1244-agustinborquez/Porfolio",
-    link2: "https://guillermoagustin.vercel.app/",
-    title: "Porfolio",
-    text: "Realizado ReactJS",
   },
   {
     id: 4,
