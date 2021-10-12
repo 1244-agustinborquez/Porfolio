@@ -31,7 +31,7 @@ function ImageSection() {
           Realicé proyectos de forma freelance.
           Actualmente  me encuentro desarrollando una aplicación de servicios ,  también estoy trabajando con un equipo  bajo la modalidad scrum.   Por otro lado comencé mi experiencia como tutor del curso Back-End con una empresa Argentina llamado Coder House. Y por último pulí mis capacidades técnicas y sociales como desarrollador en el Bootcamp Full Stack en Soy  Henry
         </p>
-        <a href="https://drive.google.com/file/d/1ahwIT1vvTfy7NXR_Za85S4rM-5jfcpf4/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1ahwIT1vvTfy7NXR_Za85S4rM-5jfcpf4/view" target="_blank">
         <PrimaryButton title={"Download Cv"} />
         </a>
       </div>
